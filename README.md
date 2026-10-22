@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Pemos 👋
 
-<!--
-**pemos-dev/pemos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Security & Vulnerability Research Enthusiast.
+- 🎯 Currently diving deep into **Vulnerability Research (VR)**, **Fuzzing**, and **Exploit Development**.
+- 🛠️ Building technical tools, automation scripts, and exploring low-level systems using **C** and **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Stack & Skills
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | C, Python, Assembly (x86/x64) |
+| **OS & Environments** | Linux, ELF Binaries, Arch Linux |
+| **Security & Analysis** | Vulnerability Research, Fuzzing (AFL++, libFuzzer), Binary Analysis, GDB |
+| **Automation & Logic** | Python Solvers, Z3 / Symbolic Execution |
+
+---
+
+### 🧭 Current Focus & Learning Path
+
+- **Primary Goal:** Mastering the full pipeline from Target Analysis and Fuzzing to Root Cause Analysis, PoC creation, and reporting.
+- **Active Practice:** Working through **Fuzzing-101**, analyzing memory corruption bugs, and studying low-level internals.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pemos-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
