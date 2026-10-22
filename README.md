@@ -12,8 +12,7 @@
 | :--- | :--- |
 | **Languages** | C, Python, Assembly (x86/x64) |
 | **OS & Environments** | Linux, ELF Binaries, Arch Linux |
-| **Security & Analysis** | Vulnerability Research, Fuzzing (AFL++, libFuzzer), Binary Analysis, GDB |
-| **Automation & Logic** | Python Solvers, Z3 / Symbolic Execution |
+| **Security & Analysis** | Vulnerability Research, Binary Analysis, GDB |
 
 ---
 
